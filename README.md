@@ -1,13 +1,12 @@
 
-##Rad Studio Keygen
+##Rad Studio Keygen 10.1 Berlin
 
 
 ###How to Use
 
 * Download *.iso image:
-    * http://altd.embarcadero.com/download/radstudio/10.1/delphicbuilder10_1.iso
-    * ftp://ftpd.embarcadero.com/download/radstudio/10.1/delphicbuilder10_1.iso 
-    * MD5: 466d2db93e5b3b631eabba69d052b28f
+    * http://altd.embarcadero.com/download/radstudio/10.1/radstudio10_1_upd2_esd.iso
+    * ftp://ftpd.embarcadero.com/download/radstudio/10.1/radstudio10_1_upd2_esd.iso
 * Mount *.iso image and run intstallation process, select language,Set Checkbox that you agree with License agreement, click "Next >" ,Now you are on the "Input License" page...
 * Click "< Back" button,Now use keygen Generate license file.
 * Click "Generate" to get new Serial Number. 
@@ -17,7 +16,7 @@
 * Start RAD Studio. .  
 
 
-######compiled by delphi 2007
+######compiled by delphi 10 Seattle
 
 ```
     GenerateSerialNumber from unis keymaker
